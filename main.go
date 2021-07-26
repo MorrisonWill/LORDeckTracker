@@ -363,6 +363,7 @@ func main() {
 }
 
 // TODO settings?
-// TODO add goroutine for monitoring if in game or menus and manage the deck tracking goroutine from that. Turn off with channel.
 // TODO clean up all code
-// TODO poll rectangle positions fast enough to see card draws and mulligans (look at githubs for ideas)
+// TODO poll rectangle positions fast enough to see card draws and mulligans
+// TODO track opponent's deck as well
+// use mobalytics API to show possible decklist for opponent?
